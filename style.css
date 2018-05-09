@@ -1,0 +1,30 @@
+body {
+	background-color: F9F0ED;
+	color: #000000;
+	font-family: Palatino, sans-serif;
+	font-size: 30;
+	margin: 20px;
+	height: 100%;
+	text-align: center;
+}
+
+.main {
+	background-image: url('https://eonet.jp/var/rev0/0006/2015/artimgpreview.jpg');
+	background-position: center top;
+	background-size: cover;
+	padding: 250px 0;
+	margin: 30px;
+	font-family: 'Trebuchet MS', 'Helvetica';
+	color: white;
+	font-size: 40px; 
+}
+
+.top {
+	background-color: #000000;
+	height: 40%;
+	padding: 2px 0;
+	margin: 0px;
+	align-items: center;
+	text-align: center;
+}
+
